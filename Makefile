@@ -1,5 +1,5 @@
 CC=g++
-CF=-g -O0 -Wall
+CF=-g -O2 -Wall
 
 default: dakon
 
